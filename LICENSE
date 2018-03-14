@@ -1,0 +1,27 @@
+According to IETF Trust Copyright FAQ [https://trustee.ietf.org/copyright-faq.html] section 2.5,
+  Anyone can publish and translate unmodified IETF Documents and Contributions for any purpose,
+  even outside the IETF Standards Process.
+  
+And "IETF TRUST Legal Provisions Relating to IETF Documents" [https://trustee.ietf.org/license-info/IETF-TLP-5.pdf]
+section 3(c)
+  c. Licenses For Use Outside the IETF Standards Process. In addition to the rights
+  granted with respect to Code Components described in Section 4 below, the IETF Trust hereby
+  grants to each person who wishes to exercise such rights, to the greatest extent that it is permitted
+  to do so, a non-exclusive, royalty-free, worldwide right and license under all copyrights and
+  rights of authors:
+  i. to copy, publish, display and distribute IETF Contributions and IETF
+  Documents in full and without modification,
+  ii. to translate IETF Contributions and IETF Documents into languages other
+  than English, and to copy, publish, display and distribute such translated IETF Contributions and
+  IETF Documents in full and without modification,
+  iii. to copy, publish, display and distribute unmodified portions of IETF
+  Contributions and IETF Documents and translations thereof, provided that:
+  (x) each such portion is clearly attributed to IETF and identifies the
+  RFC or other IETF Document or IETF Contribution from which it is taken,
+  (y) all IETF legends, legal notices and indications of authorship
+  contained in the original IETF RFC must also be included where any substantial portion of the 
+  text of an IETF RFC, and in any event where more than one-fifth of such text, is reproduced in a
+  single document or series of related documents.
+
+本 repo 中的译文除了需要遵照 IETF 的授权要求以外，在引用时必须明确添加本 repo 地址：https://github.com/OSQDU/network-rfc-chinese
+注明来自 OSQDU 的翻译。
